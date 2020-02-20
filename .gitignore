@@ -24,3 +24,5 @@
 /nbdist/
 /venv/
 /.nb-gradle/
+/_pycache_/
+*.pyc
